@@ -2,6 +2,7 @@
 /Movie/
 /Pixel_Images/
 /Sample Images/
+*.docx
 
 # Windows image file caches
 Thumbs.db
