@@ -34,3 +34,4 @@ This app has some basic keyboard controls to move the virtual camera around the 
 ## Results:
 
 The resultant images are saved to a separate folder on the hard drive. Below is an example of what the app produces.
+![Example result](https://github.com/Crashnorun/Space_In_Images/blob/master/Diagrams/Image_31.png)
