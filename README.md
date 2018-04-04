@@ -5,6 +5,7 @@ This project is a little exploration in taking 2D images from a webcam and gives
 ## Intro:
 
 This project takes live images from a web camera, saves them locally to the hard drive, and then analyzes the pixels in each image for their color value. This project was the first exploration in trying run a multithreaded Processing app. (I&#39;m not convinced the multithreading code is working correctly.) The goal was to have one thread that controlled the web camera and saving the images to a folder location on the hard drive. The second thread was intended to read the saved web camera images and preform the necessary analysis and visuals in the processing viewport.
+![Diagram](https://github.com/Crashnorun/Space_In_Images/blob/master/Diagrams/Code_03.jpg)
 
 ## Requirements:
 
