@@ -3,6 +3,7 @@
 /Pixel_Images/
 /Sample Images/
 *.docx
+*.tmp
 
 # Windows image file caches
 Thumbs.db
